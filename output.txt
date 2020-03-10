@@ -1,0 +1,552 @@
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61ACc0jMbxL._AC_UL160_SR160,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61ACc0jMbxL._AC_UL160_SR160,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61ACc0jMbxL._AC_UL160_SR160,0.4185369375146754
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513Sh8tQTwL._AC_UL160_SR160,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513Sh8tQTwL._AC_UL160_SR160,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513Sh8tQTwL._AC_UL160_SR160,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41LuHM9ORML._US40_.jpg,0.3510309798510181
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41LuHM9ORML._US40_.jpg,0.43540034418410806
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41LuHM9ORML._US40_.jpg,0.3650942876334266
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s5.jpg,0.5111320026867973
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s5.jpg,0.48189987357506
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s5.jpg,0.48189987357506
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s5.jpg,0.48189987357506
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/613EZttpCIL._AC_UL100_SR100,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/613EZttpCIL._AC_UL100_SR100,0.36453217138374955
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/613EZttpCIL._AC_UL100_SR100,0.3512719898209493
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s4.jpg,0.47225797999129515
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s4.jpg,0.4913824603856521
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s4.jpg,0.41477453476791837
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s4.jpg,0.44553932058013834
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/619FZvV+eTL._AC_UL270_SR270,0.4604515304915128
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/619FZvV+eTL._AC_UL270_SR270,0.4604515304915128
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/619FZvV+eTL._AC_UL270_SR270,0.4355435444327371
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-k2.jpg,0.2924808091083626
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-k2.jpg,0.32700348564021925
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-k2.jpg,0.3896366841759233
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-k2.jpg,0.4185369375146754
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71ZyZEk45XL._UY625_.jpg,0.43540034418410806
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71ZyZEk45XL._UY625_.jpg,0.4933736800887519
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71ZyZEk45XL._UY625_.jpg,0.4933736800887519
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61fDgzZY9jL._CR204,0.3510309798510181
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61fDgzZY9jL._CR204,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61fDgzZY9jL._CR204,0.43540034418410806
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61fDgzZY9jL._CR204,0.32858485887008393
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61QHgqQ4IML._AC_UL160_SR160,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61QHgqQ4IML._AC_UL160_SR160,0.3512719898209493
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61QHgqQ4IML._AC_UL160_SR160,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61D1JC11hEL._AC_UL160_SR160,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61D1JC11hEL._AC_UL160_SR160,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61D1JC11hEL._AC_UL160_SR160,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41ihzeXU5QL._AC_SR160,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41ihzeXU5QL._AC_SR160,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41ihzeXU5QL._AC_SR160,0.36453217138374955
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/415GVUZCBIL._AC_SR160,0.3510309798510181
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/415GVUZCBIL._AC_SR160,0.3650942876334266
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/415GVUZCBIL._AC_SR160,0.45677526972491916
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-k1.jpg,0.3915345544492125
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-k1.jpg,0.40752208480652347
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-k1.jpg,0.4293324320033825
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL160_SR160,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL160_SR160,0.2925820660991435
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL160_SR160,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s3.jpg,0.4256429356397923
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s3.jpg,0.5076773284906423
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s3.jpg,0.3915345544492125
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s2.jpg,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s2.jpg,0.36453217138374955
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s2.jpg,0.34421419541075715
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/718q5SGgUPL._AC_UL270_SR270,0.5076773284906423
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/718q5SGgUPL._AC_UL270_SR270,0.5076773284906423
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/718q5SGgUPL._AC_UL270_SR270,0.4933736800887519
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71tPzWiIphL._UY675_.jpg,0.36453217138374955
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71tPzWiIphL._UY675_.jpg,0.36453217138374955
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71tPzWiIphL._UY675_.jpg,0.48189987357506
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51l+tF5PqeL._AC_SR160,0.27584901732303346
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51l+tF5PqeL._AC_SR160,0.26169335551800865
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51l+tF5PqeL._AC_SR160,0.39010942146552474
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71C+L4cJr9L._UY625_.jpg,0.27584901732303346
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71C+L4cJr9L._UY625_.jpg,0.30822419477364266
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71C+L4cJr9L._UY625_.jpg,0.2951021993426549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71C+L4cJr9L._UY625_.jpg,0.2951021993426549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/760x1000_luggage_megamenu0323.jpg,0.37729213721509375
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/760x1000_luggage_megamenu0323.jpg,0.23418132654729956
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/760x1000_luggage_megamenu0323.jpg,0.4185369375146754
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/514BcwSe-EL._US40_.jpg,0.42157457048950703
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/514BcwSe-EL._US40_.jpg,0.42157457048950703
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/514BcwSe-EL._US40_.jpg,0.4566517334766219
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/514BcwSe-EL._US40_.jpg,0.4566517334766219
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/514BcwSe-EL._US40_.jpg,0.47894037860251887
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61W8m6yt1pL._AC_UL160_SR160,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61W8m6yt1pL._AC_UL160_SR160,0.2925820660991435
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61W8m6yt1pL._AC_UL160_SR160,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s1.jpg,0.4913824603856521
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s1.jpg,0.4933736800887519
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s1.jpg,0.4933736800887519
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41xZSXZSJ-L._AC_SR160,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41xZSXZSJ-L._AC_SR160,0.5048474866024438
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41xZSXZSJ-L._AC_SR160,0.4185369375146754
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41xZSXZSJ-L._AC_SR160,0.4293324320033825
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71HTRzO9aVL._AC_UL270_SR270,0.3653646277575728
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71HTRzO9aVL._AC_UL270_SR270,0.3816109078149862
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71HTRzO9aVL._AC_UL270_SR270,0.48189987357506
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71HTRzO9aVL._AC_UL270_SR270,0.48189987357506
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61RH5P8VMpL._AC_UL160_SR160,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61RH5P8VMpL._AC_UL160_SR160,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61RH5P8VMpL._AC_UL160_SR160,0.48679238351123544
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-m1.jpg,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-m1.jpg,0.4185369375146754
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-m1.jpg,0.4033122846092381
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._AC_UL115_.jpg,0.4185369375146754
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._AC_UL115_.jpg,0.44032027824806097
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._AC_UL115_.jpg,0.5048474866024438
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._AC_UL115_.jpg,0.4033122846092381
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61wgl97ejFL._UY675_.jpg,0.44032027824806097
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61wgl97ejFL._UY675_.jpg,0.5048474866024438
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61wgl97ejFL._UY675_.jpg,0.5048474866024438
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/31XraZHDCDL._AC_SR160,0.4185369375146754
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/31XraZHDCDL._AC_SR160,0.4185369375146754
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/31XraZHDCDL._AC_SR160,0.4320381290474069
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/3155XCSHJ7L._AC_SR160,0.3510309798510181
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/3155XCSHJ7L._AC_SR160,0.43540034418410806
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/3155XCSHJ7L._AC_SR160,0.3650942876334266
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL115_.jpg,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL115_.jpg,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL115_.jpg,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51gfWvbvhkL._US40_.jpg,0.44032027824806097
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51gfWvbvhkL._US40_.jpg,0.5233018122745781
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51gfWvbvhkL._US40_.jpg,0.5076773284906423
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51phV4-kMdL._US40_.jpg,0.36453217138374955
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51phV4-kMdL._US40_.jpg,0.44628535278871073
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51phV4-kMdL._US40_.jpg,0.35192990828793075
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51phV4-kMdL._US40_.jpg,0.44628535278871073
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/717-dPdt2yL._AC_UL160_SR160,0.5233018122745781
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/717-dPdt2yL._AC_UL160_SR160,0.48021467719506905
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/717-dPdt2yL._AC_UL160_SR160,0.5076773284906423
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51WfcW+qd2L._AC_UL320_SR298,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51WfcW+qd2L._AC_UL320_SR298,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51WfcW+qd2L._AC_UL320_SR298,0.32858485887008393
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41W8j2ijSqL._AC_SR160,0.5076773284906423
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41W8j2ijSqL._AC_SR160,0.4256429356397923
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41W8j2ijSqL._AC_SR160,0.4933736800887519
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41W8j2ijSqL._AC_SR160,0.4163223583063103
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/81P5HaMvGTL._AC_UL270_SR270,0.36142490518129494
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/81P5HaMvGTL._AC_UL270_SR270,0.38484316987942446
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/81P5HaMvGTL._AC_UL270_SR270,0.3694494430842475
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71pZz2yJFOL._CR180,0.3510309798510181
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71pZz2yJFOL._CR180,0.43540034418410806
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71pZz2yJFOL._CR180,0.3770677588799258
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61gMzqQOrGL._AC_UL160_SR160,0.26169335551800865
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61gMzqQOrGL._AC_UL160_SR160,0.23889225661072064
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61gMzqQOrGL._AC_UL160_SR160,0.22952025605643492
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41bjCtZ9uyL._AC_SR160,0.22952025605643492
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41bjCtZ9uyL._AC_SR160,0.26169335551800865
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41bjCtZ9uyL._AC_SR160,0.22952025605643492
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51Mabiy-RRL._US40_.jpg,0.4033122846092381
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51Mabiy-RRL._US40_.jpg,0.32858485887008393
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51Mabiy-RRL._US40_.jpg,0.32858485887008393
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513MYhIFBZL._AC_UL270_SR270,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513MYhIFBZL._AC_UL270_SR270,0.36453217138374955
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513MYhIFBZL._AC_UL270_SR270,0.32858485887008393
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/318l3aUG3aL._AC_UL270_SR270,0.42157457048950703
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/318l3aUG3aL._AC_UL270_SR270,0.44967954185547415
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/318l3aUG3aL._AC_UL270_SR270,0.4423425057004547
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._UL1010_.jpg,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._UL1010_.jpg,0.4185369375146754
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._UL1010_.jpg,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e03.jpg,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e03.jpg,0.36453217138374955
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e03.jpg,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41Z5tpUHUgL._AC_SR160,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41Z5tpUHUgL._AC_SR160,0.34421419541075715
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41Z5tpUHUgL._AC_SR160,0.4283772974898872
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41Z5tpUHUgL._AC_SR160,0.4466142059072852
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61R5MCWYIdL._CR412,0.3653646277575728
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61R5MCWYIdL._CR412,0.3653646277575728
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61R5MCWYIdL._CR412,0.4355435444327371
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61R5MCWYIdL._CR412,0.4355435444327371
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61NxyyLJi9L._UY625_.jpg,0.44032027824806097
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61NxyyLJi9L._UY625_.jpg,0.40752208480652347
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61NxyyLJi9L._UY625_.jpg,0.3915345544492125
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61NxyyLJi9L._UY625_.jpg,0.3915345544492125
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e02.jpg,0.45499762085632967
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e02.jpg,0.45499762085632967
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e02.jpg,0.45499762085632967
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71McrcMdEJL._AC_UL270_SR270,0.3510309798510181
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71McrcMdEJL._AC_UL270_SR270,0.43540034418410806
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71McrcMdEJL._AC_UL270_SR270,0.43540034418410806
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e01.jpg,0.3510309798510181
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e01.jpg,0.43540034418410806
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e01.jpg,0.42490722765108757
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41bJGKt7X3L._AC_SR160,0.40023689667460144
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41bJGKt7X3L._AC_SR160,0.42157457048950703
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41bJGKt7X3L._AC_SR160,0.5076773284906423
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-w1.jpg,0.4423425057004547
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-w1.jpg,0.39030221091216594
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-w1.jpg,0.39030221091216594
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/810Ag6m0oQL._AC_UL100_SR100,0.3510309798510181
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/810Ag6m0oQL._AC_UL100_SR100,0.43540034418410806
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/810Ag6m0oQL._AC_UL100_SR100,0.3650942876334266
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41F8-KjFEoL._AC_SR160,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41F8-KjFEoL._AC_SR160,0.4185369375146754
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41F8-KjFEoL._AC_SR160,0.4283772974898872
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51+YsGOveoL._CR104,0.5233018122745781
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51+YsGOveoL._CR104,0.5598112410379208
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51+YsGOveoL._CR104,0.5277950996298276
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71ChBhmQziL._AC_UL270_SR240,0.3510309798510181
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71ChBhmQziL._AC_UL270_SR240,0.43540034418410806
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71ChBhmQziL._AC_UL270_SR240,0.3650942876334266
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e04.jpg,0.35192990828793075
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e04.jpg,0.3407546684578648
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e04.jpg,0.3407546684578648
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw-howto-03_en.jpg,0.3816109078149862
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw-howto-03_en.jpg,0.37729213721509375
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw-howto-03_en.jpg,0.3915345544492125
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw-howto-03_en.jpg,0.37729213721509375
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61WKWy8Po1L._AC_UL160_SR160,0.3510309798510181
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61WKWy8Po1L._AC_UL160_SR160,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61WKWy8Po1L._AC_UL160_SR160,0.43540034418410806
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61WKWy8Po1L._AC_UL160_SR160,0.32858485887008393
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61zcrL+NGRL._AC_UL160_SR160,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61zcrL+NGRL._AC_UL160_SR160,0.36453217138374955
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61zcrL+NGRL._AC_UL160_SR160,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61xLT7uE0-L._AC_UL270_SR270,0.32858485887008393
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61xLT7uE0-L._AC_UL270_SR270,0.4589522605476762
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61xLT7uE0-L._AC_UL270_SR270,0.3187741364941242
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71j-r7-L87L._AC_UL270_SR270,0.40752208480652347
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71j-r7-L87L._AC_UL270_SR270,0.27708708231318563
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71j-r7-L87L._AC_UL270_SR270,0.18214103175901078
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51NUZ6Efo8L._US40_.jpg,0.44671132762332005
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51NUZ6Efo8L._US40_.jpg,0.44671132762332005
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51NUZ6Efo8L._US40_.jpg,0.42490722765108757
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51NUZ6Efo8L._US40_.jpg,0.42490722765108757
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513L5PUDnNL._SY625._SX._UX._SY._UY_.jpg,0.3510309798510181
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513L5PUDnNL._SY625._SX._UX._SY._UY_.jpg,0.43540034418410806
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513L5PUDnNL._SY625._SX._UX._SY._UY_.jpg,0.45677526972491916
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51EGXgRLCiL._AC_UL270_SR188,0.3510309798510181
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51EGXgRLCiL._AC_UL270_SR188,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51EGXgRLCiL._AC_UL270_SR188,0.3650942876334266
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL270_SR270,0.36453217138374955
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL270_SR270,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL270_SR270,0.4185369375146754
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._UY625_.jpg,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._UY625_.jpg,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._UY625_.jpg,0.4185369375146754
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61QiwfXERsL._AC_UL270_SR270,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61QiwfXERsL._AC_UL270_SR270,0.43540034418410806
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61QiwfXERsL._AC_UL270_SR270,0.4933736800887519
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/31eDQOUg4cL._AC_SR160,0.4245153355795053
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/31eDQOUg4cL._AC_SR160,0.4245153355795053
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/31eDQOUg4cL._AC_SR160,0.4933736800887519
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41JkSqbNt-L._AC_SR160,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41JkSqbNt-L._AC_SR160,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41JkSqbNt-L._AC_SR160,0.32858485887008393
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41JkSqbNt-L._AC_SR160,0.32858485887008393
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/614AmaC+M0L._AC_UL160_SR160,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/614AmaC+M0L._AC_UL160_SR160,0.3510309798510181
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/614AmaC+M0L._AC_UL160_SR160,0.43540034418410806
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/614AmaC+M0L._AC_UL160_SR160,0.32858485887008393
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41WItMSEyDL._AC_SR160,0.3510309798510181
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41WItMSEyDL._AC_SR160,0.32858485887008393
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41WItMSEyDL._AC_SR160,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61q46qqQapL._AC_UL115_.jpg,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61q46qqQapL._AC_UL115_.jpg,0.36453217138374955
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61q46qqQapL._AC_UL115_.jpg,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41pfmaTdQUL._AC_SR160,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41pfmaTdQUL._AC_SR160,0.36453217138374955
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41pfmaTdQUL._AC_SR160,0.32858485887008393
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71kjvBBB-CL._UY625_.jpg,0.41864144981966245
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71kjvBBB-CL._UY625_.jpg,0.4471473563534049
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71kjvBBB-CL._UY625_.jpg,0.4471473563534049
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41tje+V0BUL._AC_SR160,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41tje+V0BUL._AC_SR160,0.3393609829919332
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41tje+V0BUL._AC_SR160,0.3962882504232549
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61rCDqWALsL._AC_UL100_SR100,0.42157457048950703
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61rCDqWALsL._AC_UL100_SR100,0.4273434600639159
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61rCDqWALsL._AC_UL100_SR100,0.5248858099574011
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51lw4IndE1L._US40_.jpg,0.4958708789908599
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51lw4IndE1L._US40_.jpg,0.5277950996298276
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51lw4IndE1L._US40_.jpg,0.5442504302301351
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71+XYiByNLL._AC_UL160_SR160,0.37941711344055634
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71+XYiByNLL._AC_UL160_SR160,0.4356270561724906
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71+XYiByNLL._AC_UL160_SR160,0.4185369375146754
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/81qUPIuw+OL._AC_UL270_SR270,0.48679238351123544
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/81qUPIuw+OL._AC_UL270_SR270,0.4604515304915128
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/81qUPIuw+OL._AC_UL270_SR270,0.4245153355795053
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/81qUPIuw+OL._AC_UL270_SR270,0.4245153355795053
+<sos> a pair of scissors sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61ACc0jMbxL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61ACc0jMbxL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors and glue stick on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61ACc0jMbxL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors that are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513Sh8tQTwL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513Sh8tQTwL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513Sh8tQTwL._AC_UL160_SR160,160_.jpg
+<sos> a close up of a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41LuHM9ORML._US40_.jpg
+<sos> a close up of a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41LuHM9ORML._US40_.jpg
+<sos> a close up of a pair of scissors with needle handles <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41LuHM9ORML._US40_.jpg
+<sos> a woman holding a pink umbrella in a room <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s5.jpg
+<sos> a woman holding a pink umbrella in front of a mirror <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s5.jpg
+<sos> a woman holding a pink umbrella in front of a door <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s5.jpg
+<sos> a woman holding a pink umbrella in front of a store <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s5.jpg
+<sos> a microwave oven sitting on top of a refrigerator <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/613EZttpCIL._AC_UL100_SR100,100_.jpg
+<sos> a microwave oven sitting on top of a wooden table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/613EZttpCIL._AC_UL100_SR100,100_.jpg
+<sos> a microwave oven sitting on top of a microwave <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/613EZttpCIL._AC_UL100_SR100,100_.jpg
+<sos> a clock on a wall above a clock <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s4.jpg
+<sos> a clock that is on a wall above a clock <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s4.jpg
+<sos> a clock that is on the wall above a clock <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s4.jpg
+<sos> a clock that is on the wall above a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s4.jpg
+<sos> a close up of a person holding a tennis racket <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/619FZvV+eTL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a person holding a cell phone <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/619FZvV+eTL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a person holding a nintendo wii game controller <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/619FZvV+eTL._AC_UL270_SR270,270_.jpg
+<sos> a birthday cake with candles on top of it <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-k2.jpg
+<sos> a birthday cake with candles on it <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-k2.jpg
+<sos> a birthday cake with candles on top of a cake <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-k2.jpg
+<sos> a birthday cake with candles on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-k2.jpg
+<sos> a close up of a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71ZyZEk45XL._UY625_.jpg
+<sos> a collage of photos showing a picture frame and a clock <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71ZyZEk45XL._UY625_.jpg
+<sos> a collage of photos showing a picture frame and a sign <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71ZyZEk45XL._UY625_.jpg
+<sos> a close up of a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61fDgzZY9jL._CR204,0,1224,1224_UX175.jpg
+<sos> a pair of scissors sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61fDgzZY9jL._CR204,0,1224,1224_UX175.jpg
+<sos> a close up of a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61fDgzZY9jL._CR204,0,1224,1224_UX175.jpg
+<sos> a pair of scissors sitting on top of a wooden table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61fDgzZY9jL._CR204,0,1224,1224_UX175.jpg
+<sos> a pink hello kitty purse sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61QHgqQ4IML._AC_UL160_SR160,160_.jpg
+<sos> a pink hello kitty purse sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61QHgqQ4IML._AC_UL160_SR160,160_.jpg
+<sos> a pink hello kitty purse sitting on top of a wooden table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61QHgqQ4IML._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors that are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61D1JC11hEL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61D1JC11hEL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61D1JC11hEL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41ihzeXU5QL._AC_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41ihzeXU5QL._AC_SR160,160_.jpg
+<sos> a pair of scissors sitting next to a credit card <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41ihzeXU5QL._AC_SR160,160_.jpg
+<sos> a close up of a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/415GVUZCBIL._AC_SR160,160_.jpg
+<sos> a close up of a pair of scissors with needle handles <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/415GVUZCBIL._AC_SR160,160_.jpg
+<sos> a close up of a pair of scissors and a glue stick <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/415GVUZCBIL._AC_SR160,160_.jpg
+<sos> a little girl standing in front of a birthday cake <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-k1.jpg
+<sos> a little girl standing in front of a cake <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-k1.jpg
+<sos> a little girl standing in front of a cake with candles <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-k1.jpg
+<sos> a vase of flowers sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL160_SR160,160_.jpg
+<sos> a white vase filled with purple flowers <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL160_SR160,160_.jpg
+<sos> a vase of flowers sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL160_SR160,160_.jpg
+<sos> a pink rose bud in a white vase <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s3.jpg
+<sos> a pink rose bud in a vase on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s3.jpg
+<sos> a pink rose bud in a pink vase <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s3.jpg
+<sos> a pair of scissors that are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s2.jpg
+<sos> a pair of scissors that are sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s2.jpg
+<sos> a pair of scissors and a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s2.jpg
+<sos> a pink rose in a white vase on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/718q5SGgUPL._AC_UL270_SR270,270_.jpg
+<sos> a pink rose in a blue vase on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/718q5SGgUPL._AC_UL270_SR270,270_.jpg
+<sos> a pink rose in a white vase on a red surface <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/718q5SGgUPL._AC_UL270_SR270,270_.jpg
+<sos> a woman holding a cell phone up to her ear <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71tPzWiIphL._UY675_.jpg
+<sos> a woman holding a cell phone up to her face <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71tPzWiIphL._UY675_.jpg
+<sos> a woman holding a cell phone in front of a mirror <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71tPzWiIphL._UY675_.jpg
+<sos> a table topped with different types of wine <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51l+tF5PqeL._AC_SR160,160_.jpg
+<sos> a table topped with different types of wine glasses <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51l+tF5PqeL._AC_SR160,160_.jpg
+<sos> a collage of photos with a mickey mouse and mickey mouse <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51l+tF5PqeL._AC_SR160,160_.jpg
+<sos> a table topped with different types of electronics <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71C+L4cJr9L._UY625_.jpg
+<sos> a table topped with different types of arts and crafts <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71C+L4cJr9L._UY625_.jpg
+<sos> a table topped with different types of arts and crafts materials <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71C+L4cJr9L._UY625_.jpg
+<sos> a table topped with different types of arts and crafts stickers <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71C+L4cJr9L._UY625_.jpg
+<sos> a red fire hydrant sitting on the side of a road <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/760x1000_luggage_megamenu0323.jpg
+<sos> a red fire hydrant sitting on the side of the road <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/760x1000_luggage_megamenu0323.jpg
+<sos> a red and yellow fire hydrant sitting on a sidewalk <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/760x1000_luggage_megamenu0323.jpg
+<sos> a close up of a white and black bird <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/514BcwSe-EL._US40_.jpg
+<sos> a close up of a white and black cat <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/514BcwSe-EL._US40_.jpg
+<sos> a close up of a white and black bird on a black surface <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/514BcwSe-EL._US40_.jpg
+<sos> a close up of a white and black bird on a white surface <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/514BcwSe-EL._US40_.jpg
+<sos> a close up of a white and black bird on a window sill <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/514BcwSe-EL._US40_.jpg
+<sos> a vase of flowers sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61W8m6yt1pL._AC_UL160_SR160,160_.jpg
+<sos> a white vase filled with purple flowers <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61W8m6yt1pL._AC_UL160_SR160,160_.jpg
+<sos> a vase of flowers sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61W8m6yt1pL._AC_UL160_SR160,160_.jpg
+<sos> a black and white photo of a cat sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s1.jpg
+<sos> a black and white photo of a person holding a book <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s1.jpg
+<sos> a black and white photo of a man holding a book <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-s1.jpg
+<sos> a pair of scissors are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41xZSXZSJ-L._AC_SR160,160_.jpg
+<sos> a pair of scissors and a glue stick on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41xZSXZSJ-L._AC_SR160,160_.jpg
+<sos> a pair of scissors and glue stick on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41xZSXZSJ-L._AC_SR160,160_.jpg
+<sos> a pair of scissors and a glue stick on the table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41xZSXZSJ-L._AC_SR160,160_.jpg
+<sos> a close up of a nintendo wii remote control <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71HTRzO9aVL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a nintendo wii remote <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71HTRzO9aVL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a nintendo wii remote in a room <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71HTRzO9aVL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a nintendo wii remote in a bathroom <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71HTRzO9aVL._AC_UL270_SR270,270_.jpg
+<sos> a pair of scissors sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61RH5P8VMpL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61RH5P8VMpL._AC_UL160_SR160,160_.jpg
+<sos> a close up of a clock on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61RH5P8VMpL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors that are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-m1.jpg
+<sos> a pair of scissors and crochet hooks on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-m1.jpg
+<sos> a pair of scissors and crochet hooks are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-m1.jpg
+<sos> a pair of scissors and glue stick on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._AC_UL115_.jpg
+<sos> a pair of scissors and a glue stick <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._AC_UL115_.jpg
+<sos> a pair of scissors and a glue stick on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._AC_UL115_.jpg
+<sos> a pair of scissors and glue stick on a wooden table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._AC_UL115_.jpg
+<sos> a pair of scissors and a pencil sharpener <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61wgl97ejFL._UY675_.jpg
+<sos> a pair of scissors and a pencil sharpener on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61wgl97ejFL._UY675_.jpg
+<sos> a pair of scissors and a pencil sharpener on a wall <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61wgl97ejFL._UY675_.jpg
+<sos> a tall clock tower with a weather vane on top <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/31XraZHDCDL._AC_SR160,160_.jpg
+<sos> a tall clock tower with a weather vein on top <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/31XraZHDCDL._AC_SR160,160_.jpg
+<sos> a tall clock tower with a weather vein on it <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/31XraZHDCDL._AC_SR160,160_.jpg
+<sos> a close up of a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/3155XCSHJ7L._AC_SR160,160_.jpg
+<sos> a close up of a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/3155XCSHJ7L._AC_SR160,160_.jpg
+<sos> a close up of a pair of scissors with needle handles <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/3155XCSHJ7L._AC_SR160,160_.jpg
+<sos> a vase of flowers sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL115_.jpg
+<sos> a vase of flowers sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL115_.jpg
+<sos> a vase of flowers sits on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL115_.jpg
+<sos> a woman wearing a pink shirt and tie <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51gfWvbvhkL._US40_.jpg
+<sos> a woman wearing a pink shirt and a tie <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51gfWvbvhkL._US40_.jpg
+<sos> a woman wearing a pink dress shirt and a tie <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51gfWvbvhkL._US40_.jpg
+<sos> a close up of a box of doughnuts <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51phV4-kMdL._US40_.jpg
+<sos> a close up of a box of doughnuts on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51phV4-kMdL._US40_.jpg
+<sos> a close up of a box of doughnuts on display <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51phV4-kMdL._US40_.jpg
+<sos> a close up of a box of doughnuts on a shelf <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51phV4-kMdL._US40_.jpg
+<sos> a woman wearing a red shirt and a tie <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/717-dPdt2yL._AC_UL160_SR160,160_.jpg
+<sos> a woman wearing a red shirt and a red tie <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/717-dPdt2yL._AC_UL160_SR160,160_.jpg
+<sos> a woman wearing a red shirt and a dotted tie <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/717-dPdt2yL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51WfcW+qd2L._AC_UL320_SR298,320_.jpg
+<sos> a pair of scissors sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51WfcW+qd2L._AC_UL320_SR298,320_.jpg
+<sos> a pair of scissors sitting on top of a wooden table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51WfcW+qd2L._AC_UL320_SR298,320_.jpg
+<sos> a bunch of flowers in a vase on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41W8j2ijSqL._AC_SR160,160_.jpg
+<sos> a bunch of flowers are in a vase <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41W8j2ijSqL._AC_SR160,160_.jpg
+<sos> a bunch of flowers are in a vase on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41W8j2ijSqL._AC_SR160,160_.jpg
+<sos> a bunch of flowers are in a vase on the table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41W8j2ijSqL._AC_SR160,160_.jpg
+<sos> a red vase with flowers in it <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/81P5HaMvGTL._AC_UL270_SR270,270_.jpg
+<sos> a red and white vase with flowers in it <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/81P5HaMvGTL._AC_UL270_SR270,270_.jpg
+<sos> a red and white vase with flowers in them <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/81P5HaMvGTL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71pZz2yJFOL._CR180,0,1222,1222_UX175.jpg
+<sos> a close up of a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71pZz2yJFOL._CR180,0,1222,1222_UX175.jpg
+<sos> a close up of a pair of scissors and needles <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71pZz2yJFOL._CR180,0,1222,1222_UX175.jpg
+<sos> a table topped with lots of different colored vases <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61gMzqQOrGL._AC_UL160_SR160,160_.jpg
+<sos> a table topped with lots of pairs of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61gMzqQOrGL._AC_UL160_SR160,160_.jpg
+<sos> a table topped with lots of different types of food <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61gMzqQOrGL._AC_UL160_SR160,160_.jpg
+<sos> a table topped with lots of different types of desserts <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41bjCtZ9uyL._AC_SR160,160_.jpg
+<sos> a table topped with lots of different colored vases <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41bjCtZ9uyL._AC_SR160,160_.jpg
+<sos> a table topped with lots of different types of cakes <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41bjCtZ9uyL._AC_SR160,160_.jpg
+<sos> a white and black bird on a white surface <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51Mabiy-RRL._US40_.jpg
+<sos> a large white bird standing on top of a white plate <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51Mabiy-RRL._US40_.jpg
+<sos> a large white bird standing on top of a white surface <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51Mabiy-RRL._US40_.jpg
+<sos> a pair of scissors that are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513MYhIFBZL._AC_UL270_SR270,270_.jpg
+<sos> a pair of scissors that are sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513MYhIFBZL._AC_UL270_SR270,270_.jpg
+<sos> a pair of scissors that are on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513MYhIFBZL._AC_UL270_SR270,270_.jpg
+<sos> a white plate topped with a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/318l3aUG3aL._AC_UL270_SR270,270_.jpg
+<sos> a white plate topped with a piece of cake <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/318l3aUG3aL._AC_UL270_SR270,270_.jpg
+<sos> a white plate topped with a pair of scissors and paper <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/318l3aUG3aL._AC_UL270_SR270,270_.jpg
+<sos> a pair of scissors sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._UL1010_.jpg
+<sos> a pair of scissors and glue stick on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._UL1010_.jpg
+<sos> a pair of scissors sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._UL1010_.jpg
+<sos> a laptop computer sitting on top of a bed <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e03.jpg
+<sos> a laptop computer sitting on top of a wooden table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e03.jpg
+<sos> a pair of shoes sitting on top of a suitcase <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e03.jpg
+<sos> a pair of scissors are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41Z5tpUHUgL._AC_SR160,160_.jpg
+<sos> a pair of scissors and a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41Z5tpUHUgL._AC_SR160,160_.jpg
+<sos> a pair of scissors and a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41Z5tpUHUgL._AC_SR160,160_.jpg
+<sos> a pair of scissors and a pair of needle on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41Z5tpUHUgL._AC_SR160,160_.jpg
+<sos> a person holding a pair of scissors cutting paper <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61R5MCWYIdL._CR412,0,1060,1060_UX175.jpg
+<sos> a person holding a pair of scissors cutting tools <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61R5MCWYIdL._CR412,0,1060,1060_UX175.jpg
+<sos> a person holding a pair of scissors cutting into a 50 mask <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61R5MCWYIdL._CR412,0,1060,1060_UX175.jpg
+<sos> a person holding a pair of scissors cutting into a pound bill <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61R5MCWYIdL._CR412,0,1060,1060_UX175.jpg
+<sos> a woman is holding a glass of wine <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61NxyyLJi9L._UY625_.jpg
+<sos> a woman holding a wine glass in her hands <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61NxyyLJi9L._UY625_.jpg
+<sos> a woman holding a glass of wine in her hands <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61NxyyLJi9L._UY625_.jpg
+<sos> a woman holding a glass of wine in her hand <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61NxyyLJi9L._UY625_.jpg
+<sos> a suitcase that is sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e02.jpg
+<sos> a suitcase that is sitting on a bed <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e02.jpg
+<sos> a suitcase that is sitting on a carpet <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e02.jpg
+<sos> a close up of a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71McrcMdEJL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71McrcMdEJL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a pair of scissors on a bed <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71McrcMdEJL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e01.jpg
+<sos> a close up of a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e01.jpg
+<sos> a close up of a pair of scissors on a cutting board <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e01.jpg
+<sos> a plane flying through a blue sky <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41bJGKt7X3L._AC_SR160,160_.jpg
+<sos> a plane flying through a blue sky with clouds <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41bJGKt7X3L._AC_SR160,160_.jpg
+<sos> a plane flying through a blue sky with a propeller <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41bJGKt7X3L._AC_SR160,160_.jpg
+<sos> a red and white polka dotted vase with a floral pattern <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-w1.jpg
+<sos> a red and white polka dotted vase holding a purple flower <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-w1.jpg
+<sos> a red and white polka dotted vase holding a pink rose <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/subNav-w1.jpg
+<sos> a close up of a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/810Ag6m0oQL._AC_UL100_SR100,100_.jpg
+<sos> a close up of a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/810Ag6m0oQL._AC_UL100_SR100,100_.jpg
+<sos> a close up of a pair of scissors with googly eyes <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/810Ag6m0oQL._AC_UL100_SR100,100_.jpg
+<sos> a pair of scissors that are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41F8-KjFEoL._AC_SR160,160_.jpg
+<sos> a pair of scissors and glue stick on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41F8-KjFEoL._AC_SR160,160_.jpg
+<sos> a pair of scissors and a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41F8-KjFEoL._AC_SR160,160_.jpg
+<sos> a man wearing a black shirt and a tie <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51+YsGOveoL._CR104,0,636,636_UX175.jpg
+<sos> a man in a black shirt and a tie <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51+YsGOveoL._CR104,0,636,636_UX175.jpg
+<sos> a man in a suit and tie holding a cell phone <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51+YsGOveoL._CR104,0,636,636_UX175.jpg
+<sos> a close up of a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71ChBhmQziL._AC_UL270_SR240,270_.jpg
+<sos> a close up of a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71ChBhmQziL._AC_UL270_SR240,270_.jpg
+<sos> a close up of a pair of scissors with needle handles <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71ChBhmQziL._AC_UL270_SR240,270_.jpg
+<sos> a bag of luggage sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e04.jpg
+<sos> a bag of luggage sitting on top of a wooden table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e04.jpg
+<sos> a bag of luggage sitting on top of a wooden floor <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw_sub_e04.jpg
+<sos> a man holding a nintendo wii game controller <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw-howto-03_en.jpg
+<sos> a man holding a nintendo wii game controller in his hand <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw-howto-03_en.jpg
+<sos> a man holding a nintendo wii controller in his hand <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw-howto-03_en.jpg
+<sos> a man holding a nintendo wii controller in his right hand <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/pw-howto-03_en.jpg
+<sos> a close up of a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61WKWy8Po1L._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61WKWy8Po1L._AC_UL160_SR160,160_.jpg
+<sos> a close up of a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61WKWy8Po1L._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a wooden table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61WKWy8Po1L._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors that are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61zcrL+NGRL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors that are sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61zcrL+NGRL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61zcrL+NGRL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a wooden table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61xLT7uE0-L._AC_UL270_SR270,270_.jpg
+<sos> a close up of a remote control aimed on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61xLT7uE0-L._AC_UL270_SR270,270_.jpg
+<sos> a pair of scissors sitting on top of a wooden cutting board <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61xLT7uE0-L._AC_UL270_SR270,270_.jpg
+<sos> a bunch of different colored kites in a field <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71j-r7-L87L._AC_UL270_SR270,270_.jpg
+<sos> a bunch of different colored kites in the sky <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71j-r7-L87L._AC_UL270_SR270,270_.jpg
+<sos> a bunch of different types of scissors that are on display <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71j-r7-L87L._AC_UL270_SR270,270_.jpg
+<sos> a man holding a tennis racquet on a tennis court <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51NUZ6Efo8L._US40_.jpg
+<sos> a man holding a tennis racket on a tennis court <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51NUZ6Efo8L._US40_.jpg
+<sos> a man holding a tennis racquet on top of a tennis court <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51NUZ6Efo8L._US40_.jpg
+<sos> a man holding a tennis racquet on top of a tennis ball <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51NUZ6Efo8L._US40_.jpg
+<sos> a close up of a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513L5PUDnNL._SY625._SX._UX._SY._UY_.jpg
+<sos> a close up of a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513L5PUDnNL._SY625._SX._UX._SY._UY_.jpg
+<sos> a close up of a pair of scissors and a glue stick <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513L5PUDnNL._SY625._SX._UX._SY._UY_.jpg
+<sos> a close up of a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51EGXgRLCiL._AC_UL270_SR188,270_.jpg
+<sos> a pair of scissors that are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51EGXgRLCiL._AC_UL270_SR188,270_.jpg
+<sos> a close up of a pair of scissors with needle handles <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51EGXgRLCiL._AC_UL270_SR188,270_.jpg
+<sos> a pair of scissors that are sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL270_SR270,270_.jpg
+<sos> a pair of scissors that are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL270_SR270,270_.jpg
+<sos> a pair of scissors and crochet hooks on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Qn8gXiPSL._AC_UL270_SR270,270_.jpg
+<sos> a pair of scissors sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._UY625_.jpg
+<sos> a pair of scissors sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._UY625_.jpg
+<sos> a pair of scissors and glue stick on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61Mfpt4VFzL._UY625_.jpg
+<sos> a close up of greenish scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61QiwfXERsL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61QiwfXERsL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a street sign with a sky background <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61QiwfXERsL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a person holding a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/31eDQOUg4cL._AC_SR160,160_.jpg
+<sos> a close up of a person holding a pair of skis <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/31eDQOUg4cL._AC_SR160,160_.jpg
+<sos> a close up of a street sign with a sky background <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/31eDQOUg4cL._AC_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41JkSqbNt-L._AC_SR160,160_.jpg
+<sos> a pair of scissors sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41JkSqbNt-L._AC_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a wooden table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41JkSqbNt-L._AC_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a white table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41JkSqbNt-L._AC_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/614AmaC+M0L._AC_UL160_SR160,160_.jpg
+<sos> a close up of a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/614AmaC+M0L._AC_UL160_SR160,160_.jpg
+<sos> a close up of a pair of scissors on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/614AmaC+M0L._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a wooden table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/614AmaC+M0L._AC_UL160_SR160,160_.jpg
+<sos> a close up of a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41WItMSEyDL._AC_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a wooden table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41WItMSEyDL._AC_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41WItMSEyDL._AC_SR160,160_.jpg
+<sos> a pair of scissors that are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61q46qqQapL._AC_UL115_.jpg
+<sos> a pair of scissors that are sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61q46qqQapL._AC_UL115_.jpg
+<sos> a pair of scissors that are on a counter <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61q46qqQapL._AC_UL115_.jpg
+<sos> a pair of scissors that are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41pfmaTdQUL._AC_SR160,160_.jpg
+<sos> a pair of scissors that are sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41pfmaTdQUL._AC_SR160,160_.jpg
+<sos> a pair of scissors that are on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41pfmaTdQUL._AC_SR160,160_.jpg
+<sos> a collage of photos showing a collage of photos and a computer <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71kjvBBB-CL._UY625_.jpg
+<sos> a collage of photos showing a box fort and a box of doughnuts <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71kjvBBB-CL._UY625_.jpg
+<sos> a collage of photos showing a box fort and a box of donuts <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71kjvBBB-CL._UY625_.jpg
+<sos> a pair of scissors that are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41tje+V0BUL._AC_SR160,160_.jpg
+<sos> a pair of scissors sitting on top of a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41tje+V0BUL._AC_SR160,160_.jpg
+<sos> a pair of scissors sitting on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/41tje+V0BUL._AC_SR160,160_.jpg
+<sos> a white plate topped with a pile of books <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61rCDqWALsL._AC_UL100_SR100,100_.jpg
+<sos> a white plate topped with a blue and white envelope <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61rCDqWALsL._AC_UL100_SR100,100_.jpg
+<sos> a white plate topped with a book and a book <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/61rCDqWALsL._AC_UL100_SR100,100_.jpg
+<sos> a woman in a red dress holding a pink rose <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51lw4IndE1L._US40_.jpg
+<sos> a woman in a red shirt is holding a pink rose <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51lw4IndE1L._US40_.jpg
+<sos> a woman in a red shirt is holding a pink and white umbrella <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/51lw4IndE1L._US40_.jpg
+<sos> a pair of scissors that are on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71+XYiByNLL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors and tweezers on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71+XYiByNLL._AC_UL160_SR160,160_.jpg
+<sos> a pair of scissors and glue stick on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/71+XYiByNLL._AC_UL160_SR160,160_.jpg
+<sos> a close up of a person on a skateboard <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/81qUPIuw+OL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a person holding a cell phone <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/81qUPIuw+OL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a person holding a pair of scissors <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/81qUPIuw+OL._AC_UL270_SR270,270_.jpg
+<sos> a close up of a person holding a pair of shoes <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/81qUPIuw+OL._AC_UL270_SR270,270_.jpg

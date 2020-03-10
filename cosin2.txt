@@ -1,0 +1,14 @@
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_21_811488_L.jpg,0.2823546315027159
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_21_811488_L.jpg,0.22511033443328557
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_21_811488_L.jpg,0.14855627054164147
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_21_811488_L.jpg,0.2348880878058814
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_20_811689_L.jpg,0.08304547985373997
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_20_811689_L.jpg,0.08304547985373997
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_20_811689_L.jpg,0.21746411288782494
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_28_811527_L.jpg,0.24185563342974253
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_28_811527_L.jpg,0.2434697190721883
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_28_811527_L.jpg,0.2434697190721883
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_28_811527_L.jpg,0.2454253305610056
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_24_811477_L.jpg,0.07427813527082074
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_24_811477_L.jpg,0.08852677897456387
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_24_811477_L.jpg,0.07427813527082074

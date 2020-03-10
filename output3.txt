@@ -1,0 +1,34 @@
+<sos> a man holding a nintendo wii game controller <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/e17e4b563bf36f9b8c3aad53807d14d4.jpg
+<sos> a man holding a nintendo wii controller in his hand <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/e17e4b563bf36f9b8c3aad53807d14d4.jpg
+<sos> a man holding a nintendo wii controller in his hands <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/e17e4b563bf36f9b8c3aad53807d14d4.jpg
+<sos> a man in a suit and tie holding a microphone <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/e17e4b563bf36f9b8c3aad53807d14d4.jpg
+<sos> a close up of a vandalized street sign <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/tokyo2020-300-150.jpg
+<sos> a close up of a vandalized stop sign <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/tokyo2020-300-150.jpg
+<sos> a close up of a stop sign with a sky background <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/tokyo2020-300-150.jpg
+<sos> a close up of a stop sign with a street sign <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/tokyo2020-300-150.jpg
+<sos> a close up of a vase with flowers in it <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/06eccdad315f13c205ccaca624509384.jpg
+<sos> a close up of a flower in a vase <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/06eccdad315f13c205ccaca624509384.jpg
+<sos> a close up of a vase with flowers on it <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/06eccdad315f13c205ccaca624509384.jpg
+<sos> a large air plane on a run way <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/81691a5a98bb561799f049bc596f1c38.jpg
+<sos> a large air plane on display at a museum <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/81691a5a98bb561799f049bc596f1c38.jpg
+<sos> a large air plane on display in a museum <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/81691a5a98bb561799f049bc596f1c38.jpg
+<sos> a group of people sitting around a table eating food <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/b43716233c264150fbe1ce3035a12359.jpg
+<sos> a group of people sitting around a table with a cake <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/b43716233c264150fbe1ce3035a12359.jpg
+<sos> a group of people standing around a table with a cake <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/b43716233c264150fbe1ce3035a12359.jpg
+<sos> a group of people standing next to each other <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/e02102122a2fa9c2d5bd901a0df483a9.jpg
+<sos> a group of people standing around a train station <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/e02102122a2fa9c2d5bd901a0df483a9.jpg
+<sos> a group of people standing next to each other on a train <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/e02102122a2fa9c2d5bd901a0df483a9.jpg
+<sos> a group of people standing next to each other on a bus <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/e02102122a2fa9c2d5bd901a0df483a9.jpg
+<sos> a man in a suit and tie standing in front of a microphone <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/cfe383ea02c9c0bb621e27e1b29eb968.jpg
+<sos> a man in a suit and tie holding a microphone <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/cfe383ea02c9c0bb621e27e1b29eb968.jpg
+<sos> a man in a suit and tie standing in a room <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/cfe383ea02c9c0bb621e27e1b29eb968.jpg
+<sos> a man in a suit and tie standing in front of a podium <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/cfe383ea02c9c0bb621e27e1b29eb968.jpg
+<sos> a man in a suit and tie standing in front of a mirror <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/cfe383ea02c9c0bb621e27e1b29eb968.jpg
+<sos> a harbor filled with lots of different types of boats <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/adfa7953e0a6ee5b5e287e3b68d6f681.jpg
+<sos> a row of boats docked at a pier <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/adfa7953e0a6ee5b5e287e3b68d6f681.jpg
+<sos> a harbor filled with lots of different types of ships <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/adfa7953e0a6ee5b5e287e3b68d6f681.jpg
+<sos> a harbor filled with lots of boats and a pier <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/adfa7953e0a6ee5b5e287e3b68d6f681.jpg
+<sos> a close up of a plate of food <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/bf03585fb3aa5e6a244a82cf2b6f7005.jpg
+<sos> a close up of a plate of food on a table <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/bf03585fb3aa5e6a244a82cf2b6f7005.jpg
+<sos> a close up of a plate of food with a fork <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/bf03585fb3aa5e6a244a82cf2b6f7005.jpg
+<sos> a close up of a plate of food with french fries <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w3/bf03585fb3aa5e6a244a82cf2b6f7005.jpg

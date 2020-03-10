@@ -1,0 +1,14 @@
+/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w1/513Sh8tQTwL._AC_UL160_SR160,160_.jpg<sos> a man in a suit and tie standing in front of a microphone <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_21_811488_L.jpg
+<sos> a man wearing a suit and tie standing in front of a microphone <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_21_811488_L.jpg
+<sos> a man in a suit and tie holding a microphone <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_21_811488_L.jpg
+<sos> a man wearing a suit and tie standing in front of microphones <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_21_811488_L.jpg
+<sos> a man holding a smart phone up to his ear <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_20_811689_L.jpg
+<sos> a man holding a smart phone up to his face <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_20_811689_L.jpg
+<sos> a man holding a smart phone in front of a screen <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_20_811689_L.jpg
+<sos> a black and white photo of a black and white picture of a black and white picture of a black and white picture of a black and white picture of a black and white photo of a clock <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_28_811527_L.jpg
+<sos> a black and white photo of a black and white picture of a black and white picture of a black and white picture of a black and white picture of a black and white photo of a black and white picture of a black and white picture of a,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_28_811527_L.jpg
+<sos> a black and white photo of a black and white picture of a black and white picture of a black and white picture of a black and white picture of a black and white picture of a black and white picture of a black and white photo of a,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_28_811527_L.jpg
+<sos> a black and white photo of a black and white picture of a black and white picture of a black and white picture of a black and white picture of a black and white photo of a black and white picture of a black and white photo of a,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_28_811527_L.jpg
+<sos> a man wearing a hat and a hat <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_24_811477_L.jpg
+<sos> a man wearing a hat and a shirt and tie <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_24_811477_L.jpg
+<sos> a man wearing a hat and glasses holding a cellphone <eos>,/Users/yingzhong/Documents/chainer-caption-master/dataset/image/w2/20200302_24_811477_L.jpg
